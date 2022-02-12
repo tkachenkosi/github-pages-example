@@ -1,2 +1,2 @@
 # github-pages-example
-Для обучения
+Для обучения в HTML Academy
